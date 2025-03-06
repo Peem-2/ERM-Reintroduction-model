@@ -1,4 +1,3 @@
-setwd ("C:/Users/Peem/Desktop/EnviTech/Critial_Analytic_ERM/Model_Reintroduction_coding/results/R_Excel")
 library(readxl)
 library(ggplot2)
 library(dplyr)
