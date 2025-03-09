@@ -8,12 +8,12 @@ This model is made to evaluate potential reintroduction of 2 apex predator speci
 - [Reintro.R](https://github.com/Peem-2/ERM-Reintroduction-model/blob/main/Reintro.R) : is an R script to further visualize the result from MATLAB model tables, exported as Excel files, to compare the result from each scenario.
 
 ## Demo
-![Picture2](https://github.com/user-attachments/assets/aac04e17-5c47-4870-92fe-bf75610a0de3) <br />
 *Generated result of reintroduction of Eurasian lynx to Cairngorm National Park from MATLAB model*  <br />
-![combined_den_all_sc](https://github.com/user-attachments/assets/95f532d2-849b-4e22-84ba-5f4abea9be55) <br />
+![Picture2](https://github.com/user-attachments/assets/aac04e17-5c47-4870-92fe-bf75610a0de3) <br />
 *Result of deer density modeled from each scenario, made with R*  <br />
-![eco_each_sce](https://github.com/user-attachments/assets/4321b40b-9b13-4e9e-9acb-dbc2d98173ce) <br />
+![combined_den_all_sc](https://github.com/user-attachments/assets/95f532d2-849b-4e22-84ba-5f4abea9be55) <br />
 *Result of cost/benefits modeled from each scenario, made with R*
+![eco_each_sce](https://github.com/user-attachments/assets/4321b40b-9b13-4e9e-9acb-dbc2d98173ce) <br />
 
 ## Authors
 
